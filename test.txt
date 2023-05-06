@@ -1,6 +1,10 @@
 Hello World
 Hello Bean and Pornsuda 1234
+<<<<<<< HEAD
 bean and pornsuda professional of GIT !
+=======
+hi
+>>>>>>> 9395a7bd7a3fd205b17a313e7e5fdf6152d0d14d
 
 
 
