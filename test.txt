@@ -6,7 +6,3 @@ Hello World2
 
 
 from new_branch
-
-function(){
-    
-}
